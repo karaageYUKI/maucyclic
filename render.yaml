@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: google-maucycilic-777
+    name: google-2025-smus
     env: docker
     plan: free
