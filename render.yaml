@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: minomushi-kpk-kh-i-i-s-q-irr
+    name: azby.fmworld.net
     env: docker
     plan: free
