@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: azby.fmworld.net
+    name: siter.google.com.ka.jp
     env: docker
     plan: free
